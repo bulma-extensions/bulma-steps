@@ -1,5 +1,10 @@
-# :exclamation: Abandoned :exclamation:
-As you may have noticed, this package has not been updated for some time. I'm sorry, but unfortunately I'm not able to continue to maintain it, so I recommand the use of one available alternative:
+# :exclamation: Looking for new contributors :exclamation:
+As you may have noticed, this package has not been updated for some time. 
+
+However, as of April 2025 some changes area afoot to recover all the bulma-extensions formerly coded by wikiki, to a useful state.
+If you are interested in bieng part of a group that maintains these compoments, please leave an Issue in the project you're most interested in, to that effect.
+
+In the meantime, consider the use of one available alternative:
 - [Bulma Steps by aramvisser](https://github.com/aramvisser/bulma-steps).
 - [Bulma O Step by octoshrimpy])(https://octoshrimpy.github.io/bulma-o-steps/)
 
@@ -19,7 +24,7 @@ Preview
 
 Documentation & Demo
 ---
-You can find the Documentation and a demo [here](https://wikiki.github.io/components/steps/).
+Currently being rehomed.
 
 Don't forget to add this script to run the **bulma steps** : `<script> bulmaSteps.attach(); </script>`.
 
