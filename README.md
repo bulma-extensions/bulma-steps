@@ -6,7 +6,7 @@ If you are interested in bieng part of a group that maintains these compoments, 
 
 In the meantime, consider the use of one available alternative:
 - [Bulma Steps by aramvisser](https://github.com/aramvisser/bulma-steps).
-- [Bulma O Step by octoshrimpy])(https://octoshrimpy.github.io/bulma-o-steps/)
+- [Bulma O Step by octoshrimpy](https://octoshrimpy.github.io/bulma-o-steps/)
 
 If you're intersted in taking it over and maintain it, please contact me at wikiki@protonmail.com to discuss how to proceed.
 
